@@ -2,5 +2,5 @@
 
 Project Local Database dengan Sqflite. 
  
-Nama: Eureka Ahadyan Ilhamy 
+Nama: Eureka Ahadyan Ilhamy  
 Kelas: 11 PPLG-1
