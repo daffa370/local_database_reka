@@ -21,6 +21,8 @@ class CreatePage extends GetView<CreateController> {
             SizedBox(
               height: 20,
             ),
+
+
             TextField(
               controller: controller.contentController,
               decoration: InputDecoration(
